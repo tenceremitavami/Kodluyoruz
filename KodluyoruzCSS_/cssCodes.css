@@ -1,0 +1,82 @@
+table {
+    border: 10px;
+    border-color: black;
+
+}
+
+.center {
+
+    width: 100%;
+    text-align: center;
+}
+
+.left {
+
+    width: 90%;
+    text-align: left;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: auto;
+    padding: auto;
+    width: 50%;
+    height: auto;
+}
+
+.cardMini {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    height: auto;
+}
+
+h1,h2 {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: #4b5f4c;
+    margin-left: 4px;
+    margin-right: 4px;
+    letter-spacing: -1px;
+}
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    color: #4b5f4c;
+    text-decoration: wavy;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: black;
+    letter-spacing: -1px;
+    font-weight: 600;
+}
+h4 {
+    font-weight: 500;
+    color: #4b5f4c;
+
+}
+.figureStyle{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: #333;
+    letter-spacing: -1px;
+}
+.button {
+    background-color: #4b5f4c;
+    border: 2px;
+    border-color: black;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
