@@ -1,11 +1,18 @@
 ::placeholder{
   text-align: center;
   font-size: 14px;
+  padding-left: 10px;
   color: gray;
   background-position: 40%;
   background-size: 6%;
-}
+  background-image: url("../assets/search-solid.svg");
+  background-repeat: no-repeat;
 
+}
+.middlearea{
+  max-height: 200px !important; 
+
+}
 input.empty {
     font-family: FontAwesome;
     font-style: normal;
