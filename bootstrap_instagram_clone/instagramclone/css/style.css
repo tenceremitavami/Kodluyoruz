@@ -35,7 +35,9 @@ input.empty {
   border: 2px solid rgb(238, 39, 82);
   margin-right: 7px;
 }
-
+.bg-instagram {
+  background-color: rgba(var(--b3f,250,250,250),1);
+}
 .storytext {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 12px;
@@ -50,4 +52,13 @@ input.empty {
 .rightpanellinks:hover {
   text-decoration: none;
   color: lightgrey;
+}
+#sticky-sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0; 
+}
+.rightpanel {
+  background-color: white;
+  border-style: none;
 }
