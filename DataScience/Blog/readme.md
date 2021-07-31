@@ -1,4 +1,4 @@
-Nedir Bu Veri Bilimi?
+Nedir Bu Veri Bilimi ve Bias?
 
 Lise seviyesinde bir matematik ile limit konusunu bildiğinizi varsayarsak, sayıların sonsuza giderken yaklaşık değerlerini bulmayı biliyor olmalısınız. Örneğin içi dolu üstü açık bir karton kutu var ve siz bu kutaya her defasında şu an bulunduğunuz uzaklığın yarısı kadar mesafede yaklaşabiliyorsunuz. Bu şekilde devam ederek asla kutunun tam yanında olamazsınız ancak ona en yakın noktada durup üstünden bakarak içinde ne olduğunu görebilirsiniz. İşte limit de böyle tanımlanabilir. Limit sizin kutuyu eline almanızla ilgilenmez ona en yakın ne kadar durabilirsiniz bununla ilgilenir. Hmmm bir değere yaklaşmak, elindeki imkanları kullanarak bir yol çizerek, bir plan yaparak kutunun içinde ne olduğunu anlayabilmek için kutuya yaklaşmak. Veri biliminin tanımını andırıyor gibi sanki ne dersiniz? 
  
