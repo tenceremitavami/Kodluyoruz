@@ -9,10 +9,9 @@ Bias kavramını veri bilimiyle ilgilenen hemen herkes duymuştur. Türkçe'ye �
 Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın uç kısımlarına konumlanmış olarak duracak şekilde yüklediniz mi? Birkaç Twitter kullanıcısının da fark ettiği ve dikkat çeken fotoğraf önizleme algoritmasında siyah bir kişinin yüzü ve bir beyaz kişinin yüzü olan gönderilerin örneklerini yayınlandığında Twitter'ın önizlemesi beyaz yüzleri daha sık gösterdi!
 
     Örnek Fotoğaflar: 
-![birinci](/1.jpeg) 
 <img src="1.jpeg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float:left; margin-right: 10px;" width="100" height="300"/>
 
     
     If you want to embed images, this is how you do it:
