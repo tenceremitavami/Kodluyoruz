@@ -19,7 +19,7 @@ Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın u�
     Ve önizleme sonucu:
   <img src="3.png"
      alt="Result-1"
-     style="float:left; margin-right: 10px;" width="100" height="300"/>
+     style="float:left; margin-right: 10px;" width="500" height="600"/>
 
     2. Örnek İçin Fotoğraflar: 
 <img src="4.jpeg"
@@ -32,7 +32,7 @@ Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın u�
     Ve önizleme sonucu (Kırmızı kravatlarla alakası olmadığı ispatlanmış):
   <img src="6.png"
      alt="Result-2"
-     style="float:left; margin-right: 10px;" width="100" height="300"/>
+     style="float:left; margin-right: 10px;" width="500" height="600"/>
 
     3. Örnek İçin Fotoğraflar: 
 <img src="7.jpeg"
@@ -45,6 +45,6 @@ Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın u�
    Kurgu karakterlerde bile bu durumun olduğu görülmüş:
   <img src="9.png"
      alt="Result-2"
-     style="float:left; margin-right: 10px;" width="100" height="300"/>
+     style="float:left; margin-right: 10px;" width="500" height="600"/>
 
      Kullanıcıların bunu fark etmesinden sonra yetkililerden de geliştirmeler yaptıklarına ilişkin açıklamalar gelmiş. Görüldüğü gibi ünlü bir sosyal medya platformu da olsanız insan elinden çıkan veri setleriyle işlem yapıldığında objektif sonuçlar elde etmek neredeyse imkansız. Bu ve bu gibi sebeplerden veri biliminde bias terimi ortaya çıkıyor. Bunun çözümü olarak da birçok farklı ırk ve kökenden insanın belki de bu işlemlerde söz hakkı olması gerekir ki bizim öğrettiğimiz makineler doğruya en yakın kararı verebilsin...
