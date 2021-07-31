@@ -10,6 +10,9 @@ Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın u�
 
     Örnek Fotoğaflar: 
 ![birinci](/1.jpeg) 
+<img src="1.jpeg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
     
     If you want to embed images, this is how you do it:
