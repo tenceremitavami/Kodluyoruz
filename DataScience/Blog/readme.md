@@ -8,44 +8,47 @@ Bias kavramını veri bilimiyle ilgilenen hemen herkes duymuştur. Türkçe'ye �
 
 Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın uç kısımlarına konumlanmış olarak duracak şekilde yüklediniz mi? Birkaç Twitter kullanıcısının da fark ettiği ve dikkat çeken fotoğraf önizleme algoritmasında siyah bir kişinin yüzü ve bir beyaz kişinin yüzü olan gönderilerin örneklerini yayınlandığında Twitter'ın önizlemesi beyaz yüzleri daha sık gösterdi!
 
-    1. Örnek İçin Fotoğraflar: 
+Örnek İçin Fotoğraflar: 
+
 <img src="1.jpeg"
      alt="Example-1"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
-
 <img src="2.jpeg"
      alt="Example-2"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
+     
+Bu 2 fotoğraf için önizleme sonucu:
 
-    Ve önizleme sonucu:
   <img src="3.png"
      alt="Result-1"
      style="float:left; margin-right: 10px;" width="500" height="600"/>
 
-    2. Örnek İçin Fotoğraflar: 
+2. Örnek İçin Fotoğraflar: 
+
 <img src="4.jpeg"
      alt="Example-3"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
-
 <img src="5.jpeg"
      alt="Example-4"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
 
-    Ve önizleme sonucu (Kırmızı kravatlarla alakası olmadığı ispatlanmış):
+Kravı kırmızı da ondan algoritma onu seçiyor diyenler için(Kırmızı kravatlarla alakası olmadığı ispatlanmış):
+
   <img src="6.png"
      alt="Result-2"
      style="float:left; margin-right: 10px;" width="500" height="600"/>
 
-    3. Örnek İçin Fotoğraflar: 
+3. Örnek İçin Fotoğraflar: 
+
 <img src="7.jpeg"
      alt="Example-3"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
-
 <img src="8.jpeg"
      alt="Example-4"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
 
    Kurgu karakterlerde bile bu durumun olduğu görülmüş:
+   
   <img src="9.png"
      alt="Result-2"
      style="float:left; margin-right: 10px;" width="500" height="600"/>
