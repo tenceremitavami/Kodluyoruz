@@ -10,12 +10,12 @@ Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın u�
 
     1. Örnek İçin Fotoğraflar: 
     
-Birinci Fotoğraf;
+Fotoğraflar;
 
 <img src="1.jpeg"
      alt="Example-1"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
-İkinci Fotoğraf;
+
 <img src="2.jpeg"
      alt="Example-2"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
@@ -26,11 +26,11 @@ Birinci Fotoğraf;
      style="float:left; margin-right: 10px;" width="500" height="600"/>
 
     2. Örnek İçin Fotoğraflar: 
-Birinci Fotoğraf;
+Fotoğraflar;
 <img src="4.jpeg"
      alt="Example-3"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
-İkinci Fotoğraf;
+
 <img src="5.jpeg"
      alt="Example-4"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
@@ -41,11 +41,11 @@ Birinci Fotoğraf;
      style="float:left; margin-right: 10px;" width="500" height="600"/>
 
     3. Örnek İçin Fotoğraflar: 
-Birinci Fotoğraf;
+Fotoğraflar;
 <img src="7.jpeg"
      alt="Example-3"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
-İkinci Fotoğraf;
+
 <img src="8.jpeg"
      alt="Example-4"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
