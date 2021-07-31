@@ -10,10 +10,11 @@ Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın u�
 
     Örnek Fotoğaflar: 
 <img src="1.jpeg"
-     alt="Markdown Monster icon"
+     alt="Example-1"
+     style="float:left; margin-right: 10px;" width="100" height="300"/>
+     <img src="2.jpeg"
+     alt="Example-2"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
 
     
-    If you want to embed images, this is how you do it:
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  
