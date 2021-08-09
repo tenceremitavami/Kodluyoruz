@@ -22,9 +22,11 @@ Twitter'da hiç siyah ve beyaz tenli iki insanın fotoğrafını fotoğrafın u�
      style="float:left; margin-right: 10px;" width="500" height="600"/>
 
     2. Örnek İçin Fotoğraflar: 
+    Birinci fotoğraf:
 <img src="4.jpeg"
      alt="Example-3"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
+     İkinci fotoğraf:
 <img src="5.jpeg"
      alt="Example-4"
      style="float:left; margin-right: 10px;" width="100" height="300"/>
