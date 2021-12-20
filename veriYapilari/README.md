@@ -1,3 +1,3 @@
-# Kodluyoruz
+# Veri Yapıları
 
-Patika.dev adresinde bulunan front-end patikasına ait ödev ve çalışmalar yer almaktadır. 
+Patika.dev adresinde bulunan veri yapıları patikasına ait ödevler yer almaktadır. 
