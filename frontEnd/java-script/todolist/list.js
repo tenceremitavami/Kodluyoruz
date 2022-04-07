@@ -84,31 +84,3 @@ function errorToast() {
   let toastAdd = new bootstrap.Toast(toast);
   toastAdd.show();
 }
-
-// list.addEventListener(
-//   "click",
-//   function (ev) {
-//     if (ev.target.tagName === "LI") {
-//       ev.target.classList.toggle("checked");
-//     }
-//   },
-//   false,
-// );
-
-// listSelector.addEventListener(
-//   "click",
-//   function (ev) {
-//     if (ev.target.tagName === "LI") {
-//       ev.target.classList.toggle("checked");
-//     }
-//   },
-//   false,
-// );
-
-// listSelector.onclick = function (event) {
-//   if (event.target.classList.contains("checked")) {
-//     event.target.classList.remove("checked");
-//   } else {
-//     event.target.classList.add("checked");
-//   }
-// };
